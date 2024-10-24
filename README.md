@@ -1,5 +1,4 @@
-# Screen-CommandAI Overview
-Learn more…
+# Screen-Command
 The screen command in Linux is used to manage and switch between multiple terminal sessions. It allows users to create, detach, and reattach terminal sessions, which can be useful for a number of reasons:
 
 `Long-running processes: Screen can ensure that long-running processes continue even if you log off or your connection drops.`
